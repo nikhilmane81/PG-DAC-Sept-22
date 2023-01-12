@@ -2,13 +2,13 @@
 {
     internal class CodeRunner
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Manager mng = new Manager("Mayur", 23, "Manager");
+            Manager mng = new("Mayur", 23, "Manager");
             mng.Display();
-            GeneralManager gm = new GeneralManager("Manish", 20, "Genral-Manager", "Free Food forever");
+            GeneralManager gm = new("Manish", 20, "General-Manager", "Free Food forever");
             gm.Display();
-            Ceo ceo = new Ceo("Nikhil", 1);
+            Ceo ceo = new("Nikhil", 1);
             ceo.Display();
         }
     }

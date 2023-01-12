@@ -14,6 +14,11 @@ namespace Assignment02
             emp3.Display(emp3);
             Employee emp4 = new Employee();
             emp4.Display(emp4);
+
+            Console.WriteLine(emp4.Empno);
+            Console.WriteLine(emp3.Empno);
+            Console.WriteLine(emp2.Empno);
+            Console.WriteLine(emp1.Empno);
         }
     }
     public class Employee
@@ -23,6 +28,7 @@ namespace Assignment02
         { }
         public Employee(string name = "Demo", decimal basic = 1000, short deptno = 100)
         {
+            this.empno = ++count;
             this.Name = name;
             this.Basic = basic;
             this.Deptno = deptno;
@@ -66,8 +72,6 @@ namespace Assignment02
            
             get
             {
-                ++count;
-                empno = count;
                 return empno;
             }
         }

@@ -8,11 +8,12 @@ namespace Assignment3
 {
     public abstract class Employee : IDbFuntions
     {
-        public Employee(string Name, short DeptNo) { 
+        static int count = 0;
+        public Employee(string Name, short DeptNo) {
+            this.empNo = ++count;
             this.Name = Name;
             this.DeptNo = DeptNo;
         }
-        static int count = 0;
         private string name="";
         public string Name
         {
@@ -33,8 +34,6 @@ namespace Assignment3
         {
             
             get {
-                ++count;
-                empNo = count;
                 return empNo; 
                 }
         }
