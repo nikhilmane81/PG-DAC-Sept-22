@@ -9,7 +9,7 @@ namespace Assignment3
     public abstract class Employee : IDbFuntions
     {
         static int count = 0;
-        public Employee(string Name, short DeptNo) {
+        public Employee(string Name="", short DeptNo=0) {
             this.empNo = ++count;
             this.Name = Name;
             this.DeptNo = DeptNo;
@@ -54,9 +54,9 @@ namespace Assignment3
             get { return deptNo; }  
         }
 
-        private decimal basic;
+        protected decimal basic;
         public abstract decimal Basic
-        { get; }
+        { set;  get; }
 
         public abstract decimal CalcNetSalary();
         public abstract void Insert();

@@ -9,9 +9,10 @@ namespace Assignment3
     public  class GeneralManager : Manager,IDbFuntions
     {
 
-        public GeneralManager(string Name, short DeptNo, string Designation, string Perks) : base(Name, DeptNo, Designation)
+        public GeneralManager(string Name="", short DeptNo=0, string Designation="Emp", string Perks="No perks", decimal basic=0): base(Name, DeptNo, Designation)
         {
             this.Perks = Perks;
+            this.Basic = basic;
         }
 
         private string perks = "";
@@ -31,7 +32,14 @@ namespace Assignment3
             }
             get { return perks; }
         }
-
+        public override decimal Basic
+        {
+            set
+            {
+                basic = value;
+            }
+            get { return basic; }
+        }
         public override decimal CalcNetSalary()
         {
             return Basic * 3 + 4390;

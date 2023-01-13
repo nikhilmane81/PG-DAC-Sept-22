@@ -8,13 +8,18 @@ namespace Assignment3
 {
     public class Ceo : Employee,IDbFuntions
     {
-        public Ceo(string Name, short DeptNo) : base(Name, DeptNo)
+        public Ceo(string Name="", short DeptNo = 0, decimal basic = 0) : base(Name, DeptNo)
         {
+            this.basic = basic;
         }
 
         public override decimal Basic
         {
-            get { return 25000; }
+            set
+            {
+                basic = value;
+            }
+            get { return basic; }
         }
 
         public sealed override decimal CalcNetSalary()

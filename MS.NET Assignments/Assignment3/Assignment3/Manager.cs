@@ -8,19 +8,13 @@ namespace Assignment3
 {
     public class Manager : Employee,IDbFuntions
     {
-        public override decimal Basic 
+
+
+
+        public Manager(string Name="", short DeptNo = 0, string Designation = "Emp", decimal basic=0) : base(Name, DeptNo)
         {
-            get
-            {
-                return 4500;
-            }
-        }
-
-
-
-        public Manager(string Name, short DeptNo, string Designation) : base(Name, DeptNo)
-        {
-            this.Designation= Designation;   
+            this.Designation= Designation;  
+            this.basic= basic;
         }
 
         private string designation="";
@@ -39,6 +33,15 @@ namespace Assignment3
             }
             get
             { return designation; } 
+        }
+
+
+        public override decimal Basic 
+        { set
+            { 
+            basic= value;
+            } 
+            get { return basic; }
         }
 
         public override decimal CalcNetSalary()
