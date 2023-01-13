@@ -1,0 +1,15 @@
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\bin\Debug\net6.0\Assignment4.2.exe
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\bin\Debug\net6.0\Assignment4.2.deps.json
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\bin\Debug\net6.0\Assignment4.2.runtimeconfig.json
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\bin\Debug\net6.0\Assignment4.2.dll
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\bin\Debug\net6.0\Assignment4.2.pdb
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\Assignment4.2.csproj.AssemblyReference.cache
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\Assignment4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\Assignment4.2.AssemblyInfoInputs.cache
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\Assignment4.2.AssemblyInfo.cs
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\Assignment4.2.csproj.CoreCompileInputs.cache
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\Assignment4.2.dll
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\refint\Assignment4.2.dll
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\Assignment4.2.pdb
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\Assignment4.2.genruntimeconfig.cache
+C:\Programs\CDAC\DotNet\DemoProject\Assignment4.1\Assignment4.2\obj\Debug\net6.0\ref\Assignment4.2.dll
