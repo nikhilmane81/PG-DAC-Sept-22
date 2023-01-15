@@ -1,0 +1,15 @@
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\bin\Debug\net6.0\Assignment5.2.exe
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\bin\Debug\net6.0\Assignment5.2.deps.json
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\bin\Debug\net6.0\Assignment5.2.runtimeconfig.json
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\bin\Debug\net6.0\Assignment5.2.dll
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\bin\Debug\net6.0\Assignment5.2.pdb
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\Assignment5.2.csproj.AssemblyReference.cache
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\Assignment5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\Assignment5.2.AssemblyInfoInputs.cache
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\Assignment5.2.AssemblyInfo.cs
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\Assignment5.2.csproj.CoreCompileInputs.cache
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\Assignment5.2.dll
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\refint\Assignment5.2.dll
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\Assignment5.2.pdb
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\Assignment5.2.genruntimeconfig.cache
+C:\Programs\CDAC\DotNet\DemoProject\Assignment5.1\Assignment5.2\obj\Debug\net6.0\ref\Assignment5.2.dll
